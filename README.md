@@ -1,4 +1,4 @@
-# youtuba-project
+# youtube-api-project
 
 ## Project setup
 ```
